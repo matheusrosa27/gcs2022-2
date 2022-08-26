@@ -1,1 +1,4 @@
-"# gcs2022-2" 
+# Repositório de Exemplo para a Disicplina de Gerenciamento e Configuração de Software da PUCRS
+===================================================================================
+
+Isto é um teste
