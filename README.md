@@ -1,4 +1,4 @@
-# Repositório de Exemplo para a Disicplina de Gerenciamento e Configuração de Software da PUCRS
-===================================================================================
+# Repositório para a Disicplina de Gerenciamento e Configuração de Software da PUCRS
+=====================================================================
 
-Isto é um teste
+## Isto é um teste
