@@ -1,4 +1,4 @@
-# Repositório para a Disicplina de Gerenciamento e Configuração de Software da PUCRS
+# Repositório para a Disciplina de Gerenciamento e Configuração de Software da PUCRS
 
 =====================================================================
 
@@ -10,4 +10,4 @@
 - Banco de Dados I;
 - Linguagens, Autômatos e Computação;
 - Gerenciamento e Configuração de Software;
-- Programação Orientada a Objetos.
+- Programação Orientada a Objetos;
